@@ -13,6 +13,18 @@
 
 ![Cuplikan layar 2024-11-15 090326](https://github.com/user-attachments/assets/901176ab-5c1f-4c90-b770-0e2a9b740661)
 
+# Mockup
+
+## Output
+
+![Cuplikan layar 2024-11-15 090713](https://github.com/user-attachments/assets/2133413f-2ad3-474b-8041-bd49774780cf)
+
+# UI/UX
+
+## Output
+
+![Cuplikan layar 2024-11-15 090855](https://github.com/user-attachments/assets/ce7da814-1584-4f9a-b42f-7532b7e25e25)
+
 # Wacaffee App
 
 ## Definisi Wacaffee App
