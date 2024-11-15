@@ -5,7 +5,7 @@
 | **NIM** | 312310480 |
 | **Kelas** | TI.23.A.5 |
 | **Mata Kuliah** |Pemrograman Mobile 1|
-| **Dosen Pengampu** |Doni |
+| **Dosen Pengampu** |Donny Maulana S.Kom., MMSI |
 
 # Wacaffee App
 
