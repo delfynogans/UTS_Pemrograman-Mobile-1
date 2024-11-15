@@ -7,6 +7,12 @@
 | **Mata Kuliah** |Pemrograman Mobile 1|
 | **Dosen Pengampu** |Donny Maulana S.Kom., MMSI |
 
+# StoryBoard
+
+## Output
+
+![Cuplikan layar 2024-11-15 090326](https://github.com/user-attachments/assets/901176ab-5c1f-4c90-b770-0e2a9b740661)
+
 # Wacaffee App
 
 ## Definisi Wacaffee App
