@@ -138,15 +138,15 @@ Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi un
 
 ## Cara Menggunakan Aplikasi
 
-Pilih Lokasi: Atur lokasi pada halaman utama agar aplikasi menampilkan menu dan promo sesuai area Anda.
-Cari Menu: Gunakan kolom pencarian atau kategori untuk menemukan minuman yang diinginkan.
-Lihat Promo: Periksa banner promosi untuk penawaran spesial.
-Pilih Produk: Klik pada menu untuk melihat detail produk, seperti deskripsi, ukuran, dan harga.
-Sesuaikan Pesanan: Tambahkan opsi (contoh: biji kopi, es batu) dan pilih ukuran (S, M, L).
-Tambahkan ke Keranjang: Tekan tombol tambah (+) atau langsung klik "Buy Now" untuk membeli.
-Checkout dan Bayar: Setelah selesai memilih, buka keranjang, konfirmasi pesanan, dan lanjutkan ke proses pembayaran.
-Selesaikan Pesanan: Ikuti petunjuk pembayaran dan tunggu konfirmasi pesanan.
-Aplikasi ini dirancang untuk mempermudah pengguna memesan minuman dengan cepat dan nyaman.
+1. Pilih Lokasi: Atur lokasi pada halaman utama agar aplikasi menampilkan menu dan promo sesuai area Anda.
+2. Cari Menu: Gunakan kolom pencarian atau kategori untuk menemukan minuman yang diinginkan.
+3. Lihat Promo: Periksa banner promosi untuk penawaran spesial.
+4. Pilih Produk: Klik pada menu untuk melihat detail produk, seperti deskripsi, ukuran, dan harga.
+5. Sesuaikan Pesanan: Tambahkan opsi (contoh: biji kopi, es batu) dan pilih ukuran (S, M, L).
+6. Tambahkan ke Keranjang: Tekan tombol tambah (+) atau langsung klik "Buy Now" untuk membeli.
+7. Checkout dan Bayar: Setelah selesai memilih, buka keranjang, konfirmasi pesanan, dan lanjutkan ke proses pembayaran.
+8. Selesaikan Pesanan: Ikuti petunjuk pembayaran dan tunggu konfirmasi pesanan.
+Kesimpulan : Aplikasi ini dirancang untuk mempermudah pengguna memesan minuman dengan cepat dan nyaman.
 
 ## Teknologi yang Digunakan
 
