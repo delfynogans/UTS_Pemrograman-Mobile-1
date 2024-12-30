@@ -99,24 +99,42 @@ Tampilan ini mempermudah pelanggan memahami detail produk dan melakukan pembelia
 
 Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
 
-- **Palet Warna**: Menggunakan kombinasi warna yang lebih segar dan harmonis untuk menciptakan kesan profesional dan ramah pengguna.
-- **Font & Tipografi**: Menerapkan font yang lebih modern seperti [Poppins](https://fonts.google.com/specimen/Poppins) untuk meningkatkan keterbacaan dan estetika.
-- **Antarmuka Pengguna (UI)**: Penyempurnaan tata letak, ukuran tombol, dan elemen visual lainnya untuk pengalaman pengguna yang lebih intuitif.
-- **Responsivitas**: Menyesuaikan desain agar optimal pada berbagai ukuran layar.
-- **Launcher Icon**: Mendesain ulang ikon aplikasi (Launcher Icon) untuk mencerminkan identitas visual PrintEase yang modern dan profesional.
+- **Tampilan Awal (Landing Page)**: Tambahkan tombol lain seperti "Sign In" atau "Register" di layar pembuka untuk mempermudah pengguna baru.
+Berikan opsi "Skip" untuk langsung ke beranda tanpa login jika tidak wajib.
+- **Halaman Utama**: Optimalkan kolom pencarian dengan fitur auto-suggestion untuk mempercepat pencarian.
+Perbesar tombol kategori menu (Cappuccino, Latte, dll.) agar lebih mudah diakses.
+Highlight lebih jelas pada promo (contoh: gunakan animasi atau warna lebih mencolok).
+- **Font & Tipografi**: Menerapkan font yang lebih modern seperti Font "Roboto"
+- **Detail Produk**: Tambahkan lebih banyak informasi tambahan, seperti jumlah kalori atau bahan alergi.
+Sediakan opsi "Add to Favorites" untuk menyimpan produk yang sering dipesan.
+Optimalkan pilihan ukuran (Size) dengan visual yang lebih interaktif, seperti ikon gelas.
+- **Navigasi Bawah**: Tambahkan ikon notifikasi untuk pembaruan promo atau status pesanan.
+Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
+- **Checkout**: Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
+Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
 ## Apa yang Baru di Phase 2?
 
-- Splash Screen ketika aplikasi dibuka menampilkan logo selama 2 detik  
-- Palet warna baru yang dirancang untuk menarik perhatian pengguna.
-- Tata letak yang lebih bersih dengan jarak antar elemen yang proporsional.
-- Peningkatan ikon dan elemen grafis agar lebih modern.
-- Perubahan pada halaman konfirmasi dan pembayaran untuk memberikan pengalaman yang lebih lancar.
-- Penambahan Launcher Icon baru untuk identitas aplikasi.
+-Tampilan Awal (Landing Page) Tambahkan tombol lain seperti "Sign In" atau "Register" di layar pembuka untuk mempermudah pengguna baru.
+Berikan opsi "Skip" untuk langsung ke beranda tanpa login jika tidak wajib.
+
+-Halaman Utama Optimalkan kolom pencarian dengan fitur auto-suggestion untuk mempercepat pencarian.
+Perbesar tombol kategori menu (Cappuccino, Latte, dll.) agar lebih mudah diakses.
+Highlight lebih jelas pada promo (contoh: gunakan animasi atau warna lebih mencolok).
+
+-Detail Produk Tambahkan lebih banyak informasi tambahan, seperti jumlah kalori atau bahan alergi.
+Sediakan opsi "Add to Favorites" untuk menyimpan produk yang sering dipesan.
+Optimalkan pilihan ukuran (Size) dengan visual yang lebih interaktif, seperti ikon gelas.
+
+-Navigasi Bawah Tambahkan ikon notifikasi untuk pembaruan promo atau status pesanan.
+Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
+
+-Checkout Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
+Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
 ## Fitur Utama
 
-### 1. Splash Screen
+### 1. Tampilan Awal (Landing Page)
 
 ![Cuplikan layar 2024-12-30 094618](https://github.com/user-attachments/assets/5cc142e5-ec31-4fee-ae66-7ed7638028fe)
 
@@ -132,7 +150,7 @@ Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi un
 
 ![Cuplikan layar 2024-12-30 101600](https://github.com/user-attachments/assets/0d0703fa-6652-4441-8acd-50e1785ff02b)
 
-### 5. Pesanan Sukses
+### 5. Pesanan Sukses/Checkout
 
 ![Cuplikan layar 2024-12-30 101834](https://github.com/user-attachments/assets/5f3f88ea-5b78-4bb9-b98d-0f1c9fa2a936)
 
@@ -151,7 +169,7 @@ Kesimpulan : Aplikasi ini dirancang untuk mempermudah pengguna memesan minuman d
 ## Teknologi yang Digunakan
 
 - **Frontend:** Android (Java)
-- **Backend:** Firebase Firestore
-- **Desain:** Material Design,
+- **Backend:** Node.js dan Firebase
+- **Desain:** Figma atau Adobe XD , Material Design atau Flat Design.
 
 ---
