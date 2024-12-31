@@ -43,59 +43,71 @@
 
 ![Cuplikan layar 2024-11-14 093041](https://github.com/user-attachments/assets/c1f91004-68e1-4c1c-aa64-d3b366b3191b)
 
-## Status Proyek: **Phase 1**
+## Status Projek: **Fase 1**
 
-## Fitur Utama :
+## Fitur Terbaru Fase 1 :
 
-### 1. Beranda
+### 1. Tampilan Awal
 
 ![Cuplikan layar 2024-12-30 100630](https://github.com/user-attachments/assets/92b011e4-febd-4d7a-b5e8-db0cb07a5bb5)
 
-penjelasan dan fungsi elemen pada gambar:
+- **penjelasan dan fungsi elemen pada gambar**:
 
-Gambar Kopi dan Biji Kopi: Menarik perhatian dengan visual estetis yang menggambarkan kualitas produk.
-Teks Promosi:
-"Coffe so good, your taste buds will love it.": Memberikan kesan bahwa produk memiliki kualitas dan rasa yang istimewa.
-"The best grain, the finest roast, the powerful flavor.": Menekankan keunggulan produk.
-Tombol "Get Started":
-Fungsi: Memulai eksplorasi aplikasi, seperti masuk ke menu utama atau daftar produk.
+-Gambar Kopi dan Biji Kopi: Menarik perhatian dengan visual estetis yang menggambarkan kualitas produk.
+
+-Teks Promosi:"Coffe so good, your taste buds will love it.": Memberikan kesan bahwa produk memiliki kualitas dan rasa yang istimewa.
+
+-"The best grain, the finest roast, the powerful flavor.": Menekankan keunggulan produk.
+
+-Fungsi: Memulai eksplorasi aplikasi, seperti masuk ke menu utama atau daftar produk.
+
 Tampilan ini berfungsi sebagai layar pembuka untuk menarik pengguna dan mendorong interaksi lebih lanjut.
 
-### 2. Pesanan
+### 2. Halaman Utama
 
 ![Cuplikan layar 2024-12-30 100800](https://github.com/user-attachments/assets/f2ea8828-3289-4c76-86d5-6c9067b7e8ee)
 
-fungsi setiap elemen pada gambar secara singkat dan jelas:
+- **fungsi setiap elemen pada gambar secara singkat dan jelas**:
 
-Lokasi: Menampilkan lokasi pengguna untuk menyesuaikan menu dan promosi.
-Pencarian: Mempermudah pencarian menu spesifik.
-Filter: Menyaring menu berdasarkan kategori, harga, atau rating.
-Banner Promo: Menunjukkan promosi spesial yang sedang berlangsung.
-Kategori Menu: Memudahkan navigasi menu berdasarkan jenis minuman.
-Daftar Menu: Menampilkan nama, harga, rating, dan tombol untuk menambahkan produk ke keranjang.
-Navigasi Bawah: Mengakses fitur utama seperti beranda, favorit, keranjang, dan profil.
+-Lokasi: Menampilkan lokasi pengguna untuk menyesuaikan menu dan promosi.
 
-### 3. Riwayat
+-Pencarian: Mempermudah pencarian menu spesifik.
+
+-Filter: Menyaring menu berdasarkan kategori, harga, atau rating.
+
+-Banner Promo: Menunjukkan promosi spesial yang sedang berlangsung.
+
+-Kategori Menu: Memudahkan navigasi menu berdasarkan jenis minuman.
+
+-Daftar Menu: Menampilkan nama, harga, rating, dan tombol untuk menambahkan produk ke keranjang.
+
+-Navigasi Bawah: Mengakses fitur utama seperti beranda, favorit, keranjang, dan profil.
+
+### 3. Halaman Pesanan
 
 ![Cuplikan layar 2024-12-30 100935](https://github.com/user-attachments/assets/4fe358c5-e597-497d-83e2-be11123bfc0c)
 
-penjelasan dan fungsi dari elemen yang ada di gambar:
+- **penjelasan dan fungsi dari elemen yang ada di gambar**:
 
-Gambar Produk (Cappuccino): Menampilkan visual dari produk untuk memberikan gambaran kepada pelanggan.
-Judul dan Deskripsi Singkat:
-"Cappuccino with Chocolate": Nama dan varian produk.
-Rating (4.9 dari 250 ulasan): Menunjukkan kepuasan pelanggan terhadap produk.
-Ikon Tambahan:
-Ikon biji kopi dan es batu: Opsi tambahan untuk memodifikasi pesanan (contoh: kopi dingin atau dengan tambahan lainnya).
+-Gambar Produk (Cappuccino): Menampilkan visual dari produk untuk memberikan gambaran kepada pelanggan.
+
+-"Cappuccino with Chocolate": Nama dan varian produk.
+
+-Rating (4.9 dari 250 ulasan): Menunjukkan kepuasan pelanggan terhadap produk
+
+-Ikon biji kopi dan es batu: Opsi tambahan untuk memodifikasi pesanan (contoh: kopi dingin atau dengan tambahan lainnya).
 Deskripsi: Penjelasan detail tentang ukuran, komposisi, dan karakteristik produk.
-Opsi Ukuran (Size): Memungkinkan pelanggan memilih ukuran sesuai preferensi (S, M, L).
-Harga: Menampilkan harga produk (Rp25.000).
-Tombol "Buy Now": Untuk langsung membeli produk dan menuju proses pembayaran.
+
+-Opsi Ukuran (Size): Memungkinkan pelanggan memilih ukuran sesuai preferensi (S, M, L).
+
+-Harga: Menampilkan harga produk (Rp25.000).
+
+-Tombol "Buy Now": Untuk langsung membeli produk dan menuju proses pembayaran.
 Tampilan ini mempermudah pelanggan memahami detail produk dan melakukan pembelian secara cepat.
 
 ---
 
-## Status Proyek: **Phase 2 - Enhancing the Design**
+## Status Projek: **Fase 2 - Enhancing the Design**
 
 Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
 
@@ -113,7 +125,7 @@ Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
 - **Checkout**: Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
 Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
-## Apa yang Baru di Phase 2?
+## Apa yang Baru di Fase 2?
 
 -Tampilan Awal (Landing Page) Tambahkan tombol lain seperti "Sign In" atau "Register" di layar pembuka untuk mempermudah pengguna baru.
 Berikan opsi "Skip" untuk langsung ke beranda tanpa login jika tidak wajib.
@@ -132,27 +144,35 @@ Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
 -Checkout Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
 Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
-## Fitur Utama
+## Fitur Terbaru Fase 2
 
 ### 1. Tampilan Awal (Landing Page)
 
 ![Cuplikan layar 2024-12-30 094618](https://github.com/user-attachments/assets/5cc142e5-ec31-4fee-ae66-7ed7638028fe)
 
-### 2. Beranda
+### 2. Halaman Utama
 
 ![Cuplikan layar 2024-12-30 093710](https://github.com/user-attachments/assets/2297ea54-cb62-4cfa-a206-e8c6ae9b5e11)
 
-### 3. Detail Halaman
+### 3. Detail Produk
 
 ![Cuplikan layar 2024-12-30 095836](https://github.com/user-attachments/assets/475788f3-1e25-42c8-a2b8-57c294f09109)
 
-### 4. Pesanan
+### 4. Halaman Pesanan
 
 ![Cuplikan layar 2024-12-30 101600](https://github.com/user-attachments/assets/0d0703fa-6652-4441-8acd-50e1785ff02b)
 
 ### 5. Pesanan Sukses/Checkout
 
 ![Cuplikan layar 2024-12-30 101834](https://github.com/user-attachments/assets/5f3f88ea-5b78-4bb9-b98d-0f1c9fa2a936)
+
+## Penjelasan Fitur-Fitur Terbaru Yang Ada Di Fase 2 :
+1. - **Tampilan Awal (Landing Page)**: Fungsinya untuk menyambut dan memperkenalkan aplikasi.
+2. - **Halaman Utama**: memudahkan pengguna untuk memesan kopi secara online.
+3. - **Detail Produk**: memungkinkan pengguna untuk melihat detail produk kopi.
+4. - **Halaman Pesanan**: melakukan pemesanan makanan/minuman secara online, dengan opsi pengantaran (Delivery) atau pengambilan langsung (Pick Up), serta detail pembayaran dan penerapan diskon.
+5. - **Pesanan Sukses/Checkout**: menunjukkan fitur pelacakan pengantaran secara real-time, dengan estimasi waktu tiba dan informasi pengantar.
+
 
 ## Cara Menggunakan Aplikasi
 
@@ -167,7 +187,6 @@ Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 Kesimpulan : Aplikasi ini dirancang untuk mempermudah pengguna memesan minuman dengan cepat dan nyaman.
 
 ## Teknologi yang Digunakan
-
 - **Frontend:** Android (Java)
 - **Backend:** Node.js dan Firebase
 - **Desain:** Figma atau Adobe XD , Material Design atau Flat Design.
