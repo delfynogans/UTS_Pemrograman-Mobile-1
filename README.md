@@ -25,9 +25,9 @@
 
 ![Cuplikan layar 2024-11-15 090855](https://github.com/user-attachments/assets/ce7da814-1584-4f9a-b42f-7532b7e25e25)
 
-# Wacaffee App
+# CoffeShop_Khilink
 
-## Definisi Wacaffee App
+## Definisi CoffeShop_Khilink
 *CoffeShop_Khilink* adalah aplikasi pemesanan Coffe yang memungkinkan pengguna untuk memesan dan menyesuaikan produk dengan cara yang cepat, intuitif, dan interaktif. Terinspirasi oleh antarmuka mesin pembelian di official coffeshop tongkrongan, CoffeShop_Khilink App dirancang untuk memberikan pengalaman pemesanan yang modern dan mudah digunakan, memprioritaskan kenyamanan serta aksesibilitas pengguna.
 
 ## Output
@@ -43,11 +43,11 @@
 
 ![Cuplikan layar 2024-11-14 093041](https://github.com/user-attachments/assets/c1f91004-68e1-4c1c-aa64-d3b366b3191b)
 
-## Status Projek: **Fase 1**
+## Status Projek: **Fase 1 CoffeShop_Khilink**
 
 ## Fitur Terbaru Fase 1 :
 
-### 1. Tampilan Awal
+### 1. Tampilan Awal CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 100630](https://github.com/user-attachments/assets/92b011e4-febd-4d7a-b5e8-db0cb07a5bb5)
 
@@ -63,7 +63,7 @@
 
 Tampilan ini berfungsi sebagai layar pembuka untuk menarik pengguna dan mendorong interaksi lebih lanjut.
 
-### 2. Halaman Utama
+### 2. Halaman Utama CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 100800](https://github.com/user-attachments/assets/f2ea8828-3289-4c76-86d5-6c9067b7e8ee)
 
@@ -83,7 +83,7 @@ Tampilan ini berfungsi sebagai layar pembuka untuk menarik pengguna dan mendoron
 
 -Navigasi Bawah: Mengakses fitur utama seperti beranda, favorit, keranjang, dan profil.
 
-### 3. Halaman Pesanan
+### 3. Halaman Pesanan CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 100935](https://github.com/user-attachments/assets/4fe358c5-e597-497d-83e2-be11123bfc0c)
 
@@ -107,9 +107,9 @@ Tampilan ini mempermudah pelanggan memahami detail produk dan melakukan pembelia
 
 ---
 
-## Status Projek: **Fase 2 - Enhancing the Design**
+## Status Projek: **Fase 2 CoffeShop_Khilink - Enhancing the Design**
 
-Pada tahap ini, fokus utama kami adalah meningkatkan kualitas desain aplikasi untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
+Pada tahap ini, fokus utama adalah meningkatkan kualitas desain aplikasi CoffeShop_Khilink untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
 
 - **Tampilan Awal (Landing Page)**: Tambahkan tombol lain seperti "Sign In" atau "Register" di layar pembuka untuk mempermudah pengguna baru.
 Berikan opsi "Skip" untuk langsung ke beranda tanpa login jika tidak wajib.
@@ -125,7 +125,7 @@ Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
 - **Checkout**: Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
 Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
-## Apa yang Baru di Fase 2?
+## Apa yang Baru di Fase 2 CoffeShop_Khilink?
 
 -Tampilan Awal (Landing Page) Tambahkan tombol lain seperti "Sign In" atau "Register" di layar pembuka untuk mempermudah pengguna baru.
 Berikan opsi "Skip" untuk langsung ke beranda tanpa login jika tidak wajib.
@@ -144,37 +144,37 @@ Tambahkan akses langsung ke fitur "Help/Support" untuk pertanyaan pelanggan.
 -Checkout Perbaiki alur checkout dengan menampilkan estimasi waktu pengiriman/pengambilan.
 Tambahkan lebih banyak metode pembayaran, seperti e-wallet atau QR code.
 
-## Fitur Terbaru Fase 2
+## Fitur Terbaru Fase 2 CoffeShop_Khilink
 
-### 1. Tampilan Awal (Landing Page)
+### 1. Tampilan Awal (Landing Page) CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 094618](https://github.com/user-attachments/assets/5cc142e5-ec31-4fee-ae66-7ed7638028fe)
 
-### 2. Halaman Utama
+### 2. Halaman Utama CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 093710](https://github.com/user-attachments/assets/2297ea54-cb62-4cfa-a206-e8c6ae9b5e11)
 
-### 3. Detail Produk
+### 3. Detail Produk CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 095836](https://github.com/user-attachments/assets/475788f3-1e25-42c8-a2b8-57c294f09109)
 
-### 4. Halaman Pesanan
+### 4. Halaman Pesanan CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 101600](https://github.com/user-attachments/assets/0d0703fa-6652-4441-8acd-50e1785ff02b)
 
-### 5. Pesanan Sukses/Checkout
+### 5. Pesanan Sukses/Checkout CoffeShop_Khilink
 
 ![Cuplikan layar 2024-12-30 101834](https://github.com/user-attachments/assets/5f3f88ea-5b78-4bb9-b98d-0f1c9fa2a936)
 
-## Penjelasan Fitur-Fitur Terbaru Yang Ada Di Fase 2 :
-1. - **Tampilan Awal (Landing Page)**: Fungsinya untuk menyambut dan memperkenalkan aplikasi.
-2. - **Halaman Utama**: memudahkan pengguna untuk memesan kopi secara online.
-3. - **Detail Produk**: memungkinkan pengguna untuk melihat detail produk kopi.
-4. - **Halaman Pesanan**: melakukan pemesanan makanan/minuman secara online, dengan opsi pengantaran (Delivery) atau pengambilan langsung (Pick Up), serta detail pembayaran dan penerapan diskon.
+## Penjelasan Fitur-Fitur Terbaru Yang Ada Di Fase 2 CoffeShop_Khilink:
+1. - **Tampilan Awal (Landing Page) CoffeShop_Khilink**: Fungsinya untuk menyambut dan memperkenalkan aplikasi.
+2. - **Halaman Utama CoffeShop_Khilink**: memudahkan pengguna untuk memesan kopi secara online.
+3. - **Detail Produk CoffeShop_Khilink**: memungkinkan pengguna untuk melihat detail produk kopi.
+4. - **Halaman Pesanan CoffeShop_Khilink**: melakukan pemesanan makanan/minuman secara online, dengan opsi pengantaran (Delivery) atau pengambilan langsung (Pick Up), serta detail pembayaran dan penerapan diskon.
 5. - **Pesanan Sukses/Checkout**: menunjukkan fitur pelacakan pengantaran secara real-time, dengan estimasi waktu tiba dan informasi pengantar.
 
 
-## Cara Menggunakan Aplikasi
+## Cara Menggunakan Aplikasi , CoffeShop_Khilink
 
 1. Pilih Lokasi: Atur lokasi pada halaman utama agar aplikasi menampilkan menu dan promo sesuai area Anda.
 2. Cari Menu: Gunakan kolom pencarian atau kategori untuk menemukan minuman yang diinginkan.
