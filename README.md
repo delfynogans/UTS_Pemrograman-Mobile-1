@@ -107,7 +107,7 @@ Tampilan ini mempermudah pelanggan memahami detail produk dan melakukan pembelia
 
 ---
 
-## Status Projek: **Fase 2 CoffeShop_Khilink - Enhancing the Design**
+## Status Projek: **Fase 2 CoffeShop_Khilink - Peningkatan Fitur dan Pengalaman Pengguna**
 
 Pada tahap ini, fokus utama adalah meningkatkan kualitas desain aplikasi CoffeShop_Khilink untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
 
