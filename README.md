@@ -8,7 +8,7 @@
 | -------- | --- |
 | **Nama** | DELFYNO DWI PRASTYO  |
 | **NIM** | 312310480 |
-| **Kelas** | TI.23.A.5 |
+| **Kelas** | TI.23.A5 |
 | **Mata Kuliah** |Pemrograman Mobile 1|
 | **Dosen Pengampu** |Donny Maulana S.Kom., MMSI |
 
