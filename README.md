@@ -1,4 +1,4 @@
-# UTS/UAS_PemrogramanMobile1
+# Tugas_PemrogramanMobile2
 
 ![pngwing com](https://github.com/user-attachments/assets/0ad328e6-acbc-4b30-a964-8df45e12452e)
 
@@ -9,7 +9,7 @@
 | **Nama** | DELFYNO DWI PRASTYO  |
 | **NIM** | 312310480 |
 | **Kelas** | TI.23.A5 |
-| **Mata Kuliah** |Pemrograman Mobile 1|
+| **Mata Kuliah** |Pemrograman Mobile 2|
 | **Dosen Pengampu** |Donny Maulana S.Kom., MMSI |
 
 # StoryBoard
